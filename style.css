@@ -125,5 +125,8 @@ body{
     .wind-img{
         margin-left: 5vw;
     }
+    .card{
+        margin: 10vw auto 0;
+    }
     
 }
